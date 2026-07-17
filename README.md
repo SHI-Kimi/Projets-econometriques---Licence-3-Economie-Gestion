@@ -1,1 +1,1 @@
-# Projets-econometriques---Licence-3-Economie-Gestion
+Projets économétriques réalisés en troisième année de licence Economie-Gestion, 2025 - 2026.
